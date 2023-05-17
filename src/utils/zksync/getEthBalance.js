@@ -1,10 +1,10 @@
 import axios from 'axios';
 
 const RPC_MAP = {
-    "ethereum": "https://eth.llamarpc.com",
-    "optimism": "https://optimism-mainnet.public.blastapi.io",
-    "arbitrum": "https://rpc.ankr.com/arbitrum",
-    "polygon": "https://polygon-bor.publicnode.com",
+    "ethereum": "https://eth-mainnet.g.alchemy.com/v2/SvumKLJYPsh2rQv7JLDPx9aIuuuKefKg",
+    "optimism": "https://opt-mainnet.g.alchemy.com/v2/EEDR0uVqOyT-6xAMw2utl13294SkA9X8",
+    "arbitrum": "https://arb-mainnet.g.alchemy.com/v2/jdaGenmkd6sBDNSO2YCdOoDU2catv0Fl",
+    "polygon": "https://polygon-mainnet.g.alchemy.com/v2/_Tsya0b1jCumzNQa63yLVHkvYG1VHHSv",
     "bsc": "https://bscrpc.com"
 };
 
